@@ -1,5 +1,5 @@
 homepage: "https://www.meetmarigold.com"
 documentation: "https://www.meetmarigold.com/"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: fc7837c9cf330c1c69d8b8cf4f9e1758002e67c7
     changeNotes: Initial release.
